@@ -1,6 +1,11 @@
 template_type: k8s
 template_version: 12.0
 
+template_parameters:
+variables:
+  key1: value1
+
+
 tags:
 - Org:Engineering
 - Team:Shift_LeftQAsprint25
