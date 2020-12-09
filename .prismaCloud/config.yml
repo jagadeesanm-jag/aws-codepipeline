@@ -1,4 +1,5 @@
-template_type: TF
+template_type: k8s
+template_version: 12.0
 
 tags:
 - Org:Engineering
