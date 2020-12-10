@@ -7,5 +7,5 @@ phases:
 reports:
   iac-reports:
     files:
-      - report/iac_scan/results.xml
+      - report/iac_scan_2/results.xml
     file-format: JUNITXML
