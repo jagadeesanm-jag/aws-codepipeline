@@ -1,0 +1,6 @@
+[
+  {
+    "ParameterValue": { "Ref" : "SecondAccessControlFile" },
+    "ParameterKey": "AccessControlFile"
+  }
+]
