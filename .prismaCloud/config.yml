@@ -1,9 +1,11 @@
-template_type: TF
+template_type: CFT 
 template_version: 0.12
 
 template_parameters:
   variables:
     process : system
+  variable_files:
+    - ./cft_variables/cft_variables.json
 
 tags:
 - Org:Engineering
