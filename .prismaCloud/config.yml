@@ -5,7 +5,7 @@ template_parameters:
   variables:
     process : system
   variable_files:
-    - ./cft_variables/cft_variables.json
+    - ./cft_variables/cft_variables1.json
 
 tags:
 - Org:Engineering
